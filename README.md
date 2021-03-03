@@ -8,13 +8,13 @@ the player that makes the penguin fall down loses the game.
 
 The game files are included in the zip folder. Unzip it and run the executable to play.
 
-##Usage
+## Usage
 
 Left Click:	shoot projectile
 Space:		reset game
 Q:		quit game
 
-##License
+## License
 [GNU v3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
 
